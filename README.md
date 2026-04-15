@@ -7,7 +7,7 @@
 ⠀⠙⢿⣷⣤⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣴⣿⡿⠁⠀
 ⠀⠀⠀⠉⠛⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠛⠉⠀⠀⠀
 
-<br>Welcome to my GitHub - Visit my landing page for easier navigation!<br>
+### <br>Welcome to my GitHub - Visit my landing page for easier navigation!<br>
 
 **Ⓐ**  **About Me:** Third Year Cybersecurity and Computer Networking Student with a minor in Computer Science</span></h1><br>
 
