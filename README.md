@@ -13,6 +13,6 @@
 
 **Ⓑ**  **Technical Interests:** Building Secure Infrastructure and Networking<br>
 
-**Ⓧ**  **Other Intrests:** Taking apart old electronics and **trying** to fix them, hiking, skiing, rafting, learning Spanish, juggling<br>
+**Ⓧ**  **Other Interests:** Taking apart old electronics and **trying** to fix them, hiking, skiing, rafting, learning Spanish, juggling<br>
 
 **Ⓨ**  **About the Page:** For Major classes Tech Journals are located in the Wiki Section and any config files or deliverables can be              found in the code section. For programming courses, a     majority of class content will be in the code section.<br>
