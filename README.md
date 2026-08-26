@@ -30,7 +30,7 @@
 
 **△** - **About Me:** Third Year Cybersecurity and Computer Networking Student with a minor in Computer Science</span></h1><br>
 
-**◯** - **Technical Interests:** Building Secure Infrastructure and Networking<br>
+**◯** - **Technical Interests:** Building Secure Infrastructure and Networking, Operational Technology<br>
 
 **✕** - **Other Interests:** Taking apart old electronics and **trying** to fix them, hiking, skiing, rafting, learning Spanish, juggling<br>
 
